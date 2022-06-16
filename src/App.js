@@ -1,9 +1,8 @@
-import React, { Component, useState } from 'react'
+import React, { useState } from 'react'
 import TaskList from './Components/TaskList';
 import { Input } from 'antd';
-import { Divider, List, Typography } from 'antd';
+import { Divider } from 'antd';
 import { Context } from './context';
-import { ToolFilled } from '@ant-design/icons';
 
 export default function App() {
 
