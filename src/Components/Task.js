@@ -1,4 +1,4 @@
-import React,  {useState, useContext} from 'react'
+import React,  { useContext} from 'react'
 import { Checkbox } from 'antd';
 import { DeleteOutlined } from '@ant-design/icons';
 import { Context } from '../context';
